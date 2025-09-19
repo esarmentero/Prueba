@@ -1,1 +1,2 @@
 Este es mi primer ejemplo de control de versiones
+Segunda parte del ejemplo de control de versiones
